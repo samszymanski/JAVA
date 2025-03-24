@@ -7,3 +7,5 @@ A entrada contém 2 valores inteiros.
 
 <b>Saída</b>
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
+
+![image](https://github.com/user-attachments/assets/5342a31e-630a-47b0-9aa8-9aeaceee492e)
