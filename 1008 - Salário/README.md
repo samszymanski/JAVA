@@ -6,3 +6,5 @@ O arquivo de entrada contém 2 números inteiros e 1 número com duas casas deci
 
 <b>Saída</b><br>
 Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
+
+![image](https://github.com/user-attachments/assets/559245b8-416f-458c-b22e-b23f0401b67f)
