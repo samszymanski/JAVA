@@ -6,3 +6,5 @@ O arquivo de entrada contém um texto (primeiro nome do vendedor) e 2 valores de
 
 <b>Saída</b><br>
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
+
+![image](https://github.com/user-attachments/assets/218f418d-3a85-4941-9298-3b2168fa22da)
