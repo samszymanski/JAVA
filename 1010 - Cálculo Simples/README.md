@@ -6,3 +6,5 @@ O arquivo de entrada contém duas linhas de dados. Em cada linha haverá 3 valor
 
 <b>Saída</b><br>
 A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando de deixar um espaço após os dois pontos e um espaço após o "R$". O valor deverá ser apresentado com 2 casas após o ponto.
+
+![image](https://github.com/user-attachments/assets/4822fec1-571d-4771-937b-ee3cfe91015f)
