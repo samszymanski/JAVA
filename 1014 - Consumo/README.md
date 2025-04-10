@@ -6,3 +6,5 @@ O arquivo de entrada contém dois valores: um valor inteiro **X** representando 
 
 ## Saída
 Apresente o valor que representa o consumo médio do automóvel com 3 casas após a vírgula, seguido da mensagem "km/l".
+
+![image](https://github.com/user-attachments/assets/1238a981-ea51-4662-a13a-311bfc0110f9)
